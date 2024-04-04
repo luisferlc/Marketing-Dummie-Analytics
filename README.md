@@ -39,3 +39,9 @@ Este repositorio contiene un análisis de los datos públicos de iFood (https://
 - Total_Purchases: número total de compras hechas por el cliente.
 
 ## Plots
+<img src="https://github.com/luisferlc/Marketing-Dummie-Analytics/blob/main/newplot.png"> 
+<img src="https://github.com/luisferlc/Marketing-Dummie-Analytics/blob/main/newplot%20(1).png"> 
+<img src="https://github.com/luisferlc/Marketing-Dummie-Analytics/blob/main/newplot%20(2).png"> 
+<img src="https://github.com/luisferlc/Marketing-Dummie-Analytics/blob/main/newplot%20(3).png"> 
+<img src="https://github.com/luisferlc/Marketing-Dummie-Analytics/blob/main/newplot%20(4).png"> 
+<img src="https://github.com/luisferlc/Marketing-Dummie-Analytics/blob/main/newplot%20(5).png"> 
